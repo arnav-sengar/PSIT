@@ -1,0 +1,26 @@
+Lists
+
+HTML lists are used to specify list of information. All lists may contain one or more lists elements. There are 3 different types of HTML lists -
+
+1.Ordered lists
+2.Unordered lists
+3.Description lists(Defintion list)
+
+1.Ordered lists - It defines a list of items in which the order of the items matters. An ordered list is callled a "Number list".
+Different ways to number the ordered list - using the "Type" attribute
+Type = '1' : The list items will be numbered with numbers(default)
+Type = 'A' : The list items will be numbered with upper case letters
+Type = 'a' : The list items will be numbered with lower case letters
+Type = 'I' : The list items will be numbered with upper case Roman numerals
+Type = 'i' : The list items will be numbered with lower case Roman numerals
+
+2.Unordered lists - It defines a list of items in which the order of the item does not matters or in other words it is used to contain a unordered list
+There  are 4 types of styles in unordered list-
+Type = 'disc' : The list items will be numbered with a filled circle(default)
+Type = 'circle' : The list items will be numbered with an empty circle
+Type = 'square' : The list items will be numbered with a filled square
+Type = 'none' : The list items will be numbered with no symbol
+
+3.Description lists - It defines a list of key terms and their definitions. This tag contains <dt> and <dd> tags
+
+Question. Write down a HTML program in which ordered list/unordered list/description list is used.
