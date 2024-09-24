@@ -1,0 +1,64 @@
+Hyper Text Markup Language (HTML) is a standard markup language to create the structure of a web page. It annotates the content on a web page using HTML elements.
+
+In a web page, all instructions to the browser are given in the form of HTML tags, also known as HTML elements. 
+
+The content of the web page will be rendered as per the HTML tags in which they are enclosed.
+
+The text content "Hello World!" is annotated to the heading, increasing the font-weight when it is enclosed in the HTML tag <h1>.
+
+Likewise, the look and feel of the web page can be defined and the content can be organized on the web page with the help of various HTML elements.
+
+Now, let us see the document structure of HTML.
+
+HTML document structure tells the browser how to render the text written in each of the HTML elements of the web page.
+
+
+The structure of an HTML document is defined using HTML tags. 
+
+Below is the basic structure of a simple HTML document or web page:
+
+<!DOCTYPE html>
+<html>
+   <head>
+    <title></title>
+  </head>
+  <body>
+  </body>
+</html>
+
+
+
+Now, let us understand these basic HTML tags in detail
+
+The following are some key elements in HTML that form the basic structure of a web page.
+
+    <!DOCTYPE html> declaration update the browser about the version of HTML being used. By default, it points to HTML5, the latest version.
+
+    The <html> tag encapsulates the complete web page content. All other tags are 'nested' within the <HTML> tag.
+
+    Any HTML document or web page consists of two main sections the 'head' and the 'body'. 
+
+        The head section starts with the start tag <head> and ends with the end tag </head>.
+
+
+The following elements can be provided within the head tag.
+
+<title> : Defines the title that should be displayed on the browser tab.
+
+<meta> : Used to specify page description, author of the document, last modified, etc.
+Used by browsers(control how to display content or reload the page),search engines(keywords),or other web services.
+
+<style> : Defines style information for the webpage.
+
+<link> : Defines a link to other documents like CSS.
+
+<script> : Defines script like JavaScript.
+
+The body section is denoted within the start tag <body> and ends with the end tag </body> , this section contains actual web page content like text,images, etc.
+
+Every HTML document/webpage will have only one set of :
+<html>.....</html> tag
+<head>.....</head> tag
+<body>.....</body> tag
+
+HTML document/webpage is saved with .html or .htm extension.

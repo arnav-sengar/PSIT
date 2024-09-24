@@ -1,0 +1,69 @@
+WWW (World Wide Web)
+Definition
+
+    WWW: A system of interlinked hypertext documents accessed via the internet.
+
+Components
+
+    Web Pages: Documents formatted in HTML.
+    Web Browsers: Software to access and display web pages.
+    URLs: Addresses used to locate web pages.
+
+Function
+
+    Hyperlinks: Allow navigation between web pages.
+    HTTP/HTTPS: Protocols for data transfer.
+
+Key Points
+
+    Invented by Tim Berners-Lee in 1989.
+    Revolutionized information sharing and communication.
+
+
+
+
+Internet
+
+The internet is a vast and complex network that connects millions of computers and devices around the world. To understand it better, let's break it down into simpler parts.
+Key Concepts
+
+    Network: A group of interconnected computers.
+    Protocol: A set of rules for data exchange.
+    IP Address: A unique identifier for each device on the internet.
+    Domain Name: A human-readable address for a website.
+
+
+
+
+Client Definition
+
+In the context of the internet, a client is a device or software that requests and uses services provided by a server. Let's break this down further.
+
+Key Characteristics of a Client
+
+    Requests Services: A client initiates communication by requesting data or services.
+    Receives Responses: The client receives and processes the data or services provided by the server.
+    Examples: Web browsers, email clients, mobile apps.
+
+
+
+Server Definition
+
+A server is a device or software that provides services or data to clients over a network. Let's explore this concept further.
+Key Characteristics of a Server
+
+    Provides Services: A server responds to requests from clients by providing data or services.
+    Always On: Typically, servers are always running to handle requests at any time.
+    Examples: Web servers, email servers, file servers.
+
+
+
+Web Browser Definition
+
+A web browser is a software application that allows users to access and interact with websites on the internet. Let's break down its role and functionality.
+Key Characteristics of a Web Browser
+
+    Requests Web Pages: The browser sends requests to web servers for web pages.
+    Renders Content: It processes and displays the content of web pages, including text, images, and multimedia.
+    User Interface: Provides tools for navigation, bookmarking, and managing web sessions.
+    Examples: Google Chrome, Mozilla Firefox, Safari, Microsoft Edge.
