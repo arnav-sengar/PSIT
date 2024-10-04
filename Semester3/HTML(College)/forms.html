@@ -1,0 +1,38 @@
+<!-- Create an HTML form that includes the following:
+ -A text input for the user's name.
+ -An email input for the user's email address.
+ -A password input
+ -A colour picker for the user's favourite colour.
+ -A data picker for the user's birthday
+ -A submit button
+  -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="/submit" method="post">
+        <label for="name">Name :</label>
+        <input type="text" id="name" name="name" required>
+        <br><br>
+         
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password" required>
+        <br><br>
+
+        <label for="colour">Favourite colour</label>
+        <input type="color" id="colour" name="colour">
+        <br><br>
+
+        <label for="birthday">Birthday</label>
+        <input type="date" id="birthdate" name="birthdate">
+        <br><br> 
+        <input type="submit" value="submit">
+        <br><br>
+        
+    </form>
+</body>
+</html>
