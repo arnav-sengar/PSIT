@@ -1,0 +1,5 @@
+The table elements represents daya witht more than one dimension, in the form of a table.
+
+Tables have rows, columns and cells given by their descendants. The rows and columns form a grid;a table's cells must completely cover that grid without overlap.
+
+Question : Write a HTML code in which create a table of 3 columns - name,city and age
