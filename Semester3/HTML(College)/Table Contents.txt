@@ -2,4 +2,6 @@ The table elements represents daya witht more than one dimension, in the form of
 
 Tables have rows, columns and cells given by their descendants. The rows and columns form a grid;a table's cells must completely cover that grid without overlap.
 
+When we open a table tag,and want to do bordering in rows and columns,then for styling we use css...but right now we will use HTML then we use table header tag(th) and table body tag(tb)
+
 Question : Write a HTML code in which create a table of 3 columns - name,city and age
