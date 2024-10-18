@@ -10,7 +10,7 @@ body{
     padding:10px;
     margin:20px;
     background-color:rgb(0, 0, 0);
-    box-sizing: border-box;
+    box-sizing: content-box;
 }
 
 /* 1.Create a div tag with a width of 200px and height of 100px
