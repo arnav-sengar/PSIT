@@ -11,3 +11,8 @@ body{
     margin:20px;
     background-color:rgb(0, 0, 0);
 }
+
+/* 1.Create a div tag with a width of 200px and height of 100px
+2.Add a solid border of 2px and a border radius of 10px to the div
+3.Add a padding of 10px and a margin of 20px to the div tag
+4.Use the box sizing property to ensure the padding and border are included in the width and height of the div tag */
